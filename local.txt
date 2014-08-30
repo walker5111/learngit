@@ -1,3 +1,4 @@
 Create in my local repo。
 test branch creation.
 confliction test.
+create branch is quick.
