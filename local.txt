@@ -6,3 +6,5 @@ create branch is quick.
 test -noff
 
 dev branch
+
+change  in master
